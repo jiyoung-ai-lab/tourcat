@@ -7,7 +7,6 @@ Travel companion app for finding travel information and products and managing si
 * Developed in 2025
 * Android application
 * Available on Google Play
-* Currently under improvement
 
 ## Features
 
@@ -26,7 +25,7 @@ Travel companion app for finding travel information and products and managing si
 
 ## Google Play
 
-[Google Play](GOOGLE_PLAY_URL)
+[Google Play](https://play.google.com/store/apps/details?id=com.waveapp.tourcat&pcampaignid=web_share)
 
 ## Status
 
