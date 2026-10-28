@@ -24,11 +24,7 @@ AI-powered travel and shopping assistant for product and menu search, translatio
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=flat\&logo=google\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-
-### Google Play
-
-[Google Play](https://play.google.com/store/apps/details?id=com.waveapp.tourcat&pcampaignid=web_share)
-
+ 
 ### Status
 
 Currently under improvement.
